@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c8d3b02a-913c-487f-8d58-71190f3ee984)
+![image](https://github.com/user-attachments/assets/b03f788d-be19-458e-ba89-0deeee7918e6)
 - 👋 Hi, I’m PranjalKhandelwal@golu19102003
 - 👀 I’m interested in Basic to Advance Programming , Compititive Programming , badminton , football etc.
 - 🌱 I’m currently learning Data structure & algorithms using Java and Data Science with Python.
